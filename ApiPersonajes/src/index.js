@@ -4,9 +4,10 @@ import './models/models.random.js';
 
 const main = async(req, res) => {
   try {
-    await RandomDB.sync({force: false})
-    app.listen(3000, () => {
-      console.log('Server listen on port', 3000)
+    await RandomDB.sync({force: false});
+    const PORT = 4000;
+    app.listen(PORT, () => {
+      console.log('Server listen on port', PORT)
     });
   }
   catch(err) {
