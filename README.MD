@@ -9,7 +9,7 @@ TECNOLOGIAS:
 - POSTMAN
 
 MEJORAS:
-- Mejorar el interfec
+- Mejorar el interfaz
 - Agregar un aside
 - Agregar un footer
 - Implementar algun middleware(express-validator)
