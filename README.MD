@@ -8,8 +8,3 @@ TECNOLOGIAS:
 - DBEAVER(Postman)
 - POSTMAN
 
-MEJORAS:
-- Mejorar el interfaz
-- Agregar un aside
-- Agregar un footer
-- Implementar algun middleware(express-validator)
